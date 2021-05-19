@@ -1,0 +1,1 @@
+2021-04-19 14:24:32.945 +03:00 [INF] {"MethodName":"deneme","LogParameters":null,"$type":"LogDetail"}

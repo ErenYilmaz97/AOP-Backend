@@ -1,0 +1,9 @@
+C:\Users\eren_\Desktop\PROJELER\CampAuthProject\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\eren_\Desktop\PROJELER\CampAuthProject\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\eren_\Desktop\PROJELER\CampAuthProject\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\eren_\Desktop\PROJELER\CampAuthProject\Business\obj\Debug\netcoreapp3.1\Business.csprojAssemblyReference.cache
+C:\Users\eren_\Desktop\PROJELER\CampAuthProject\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\eren_\Desktop\PROJELER\CampAuthProject\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\eren_\Desktop\PROJELER\CampAuthProject\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\eren_\Desktop\PROJELER\CampAuthProject\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\eren_\Desktop\PROJELER\CampAuthProject\Business\obj\Debug\netcoreapp3.1\Business.pdb

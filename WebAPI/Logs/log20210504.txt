@@ -1,0 +1,10 @@
+2021-05-04 16:48:24.997 +03:00 [INF] {"MethodName":"GetById","LogParameters":[{"Name":"productId","Value":1,"Type":"Int32","$type":"LogParameter"}],"$type":"LogDetail"}
+2021-05-04 16:48:34.728 +03:00 [INF] {"MethodName":"GetById","LogParameters":[{"Name":"productId","Value":1,"Type":"Int32","$type":"LogParameter"}],"$type":"LogDetail"}
+2021-05-04 16:48:37.497 +03:00 [INF] {"MethodName":"GetById","LogParameters":[{"Name":"productId","Value":1,"Type":"Int32","$type":"LogParameter"}],"$type":"LogDetail"}
+2021-05-04 16:48:39.693 +03:00 [INF] {"MethodName":"GetById","LogParameters":[{"Name":"productId","Value":1,"Type":"Int32","$type":"LogParameter"}],"$type":"LogDetail"}
+2021-05-04 16:48:41.996 +03:00 [INF] {"MethodName":"GetById","LogParameters":[{"Name":"productId","Value":1,"Type":"Int32","$type":"LogParameter"}],"$type":"LogDetail"}
+2021-05-04 16:48:46.232 +03:00 [INF] {"MethodName":"GetById","LogParameters":[{"Name":"productId","Value":1,"Type":"Int32","$type":"LogParameter"}],"$type":"LogDetail"}
+2021-05-04 16:48:48.548 +03:00 [INF] {"MethodName":"GetById","LogParameters":[{"Name":"productId","Value":1,"Type":"Int32","$type":"LogParameter"}],"$type":"LogDetail"}
+2021-05-04 16:48:50.607 +03:00 [INF] {"MethodName":"GetById","LogParameters":[{"Name":"productId","Value":1,"Type":"Int32","$type":"LogParameter"}],"$type":"LogDetail"}
+2021-05-04 16:48:52.516 +03:00 [INF] {"MethodName":"GetById","LogParameters":[{"Name":"productId","Value":1,"Type":"Int32","$type":"LogParameter"}],"$type":"LogDetail"}
+2021-05-04 16:48:54.460 +03:00 [INF] {"MethodName":"GetById","LogParameters":[{"Name":"productId","Value":1,"Type":"Int32","$type":"LogParameter"}],"$type":"LogDetail"}
